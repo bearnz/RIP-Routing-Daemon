@@ -1,0 +1,4 @@
+router-id 3
+input-ports 1024, 10061, 10016
+outputs asd, 1024-5-3, 10017-8-z
+timer-values

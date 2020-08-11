@@ -1,0 +1,4 @@
+router-id int(1)
+input-ports ಋ
+outputs ಋ-ಋ-ಋ
+timer -9800

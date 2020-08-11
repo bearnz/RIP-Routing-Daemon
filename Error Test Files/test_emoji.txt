@@ -1,0 +1,4 @@
+router-id a
+input-ports 5000
+outputs 6008-1-1
+timer a

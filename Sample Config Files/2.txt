@@ -1,0 +1,4 @@
+router-id 2
+input-ports 10021, 10023
+outputs 10012-1-1, 10032-3-3
+timer 15
