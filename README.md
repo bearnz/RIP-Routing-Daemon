@@ -6,7 +6,10 @@ It is designed to be run from the Linux command line with a series of config fil
 Config files are in the format:
 
 router-id <id_num>
+
 input-ports <port_num1, port_num2, ..., <port_numx>
+
 output-ports <port_num1-metric-inp_port1, ..., port_numx-metric-inp_portx>
+
 timer <value>
   
