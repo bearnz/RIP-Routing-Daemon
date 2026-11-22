@@ -15,3 +15,12 @@ output-ports <port_num1-metric_1-inp_port1, ..., port_numx-metric_x-inp_portx>
 
 timer <timeout_value>
   
+
+## Copyright
+
+Copyright (c) 2020 Josh (github.com/bearnz). All rights reserved.
+
+No licence is granted. You are welcome to read this code and to fork it on
+GitHub; you may not use, copy, modify or redistribute it without permission.
+See [NOTICE](NOTICE) for the terms, and open an issue if you would like to use
+any of it.
